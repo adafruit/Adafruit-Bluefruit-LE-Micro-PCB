@@ -1,14 +1,19 @@
-# Adafruit-Bluefruit-LE-Micro-PCB
-PCB files for Adafruit Bluefruit LE Micro. Format is EagleCAD
+## Adafruit Bluefruit LE Micro PCB (Discontinued)
+<a href="http://www.adafruit.com/products/2661"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+See the part listing in the Adafruit shop</a>
 
-For more details, check out the product page at
+DISCONTINUED
+Check out the [Adafruit Feather 32u4 Bluefruit LE](https://www.adafruit.com/products/2829), it's an awesome upgrade!
 
-  * https://www.adafruit.com/product/2661
+PCB files for Adafruit Bluefruit LE Micro. Format is EagleCAD.
+- https://www.adafruit.com/product/2661
 
-Adafruit invests time and resources providing this open source design, 
-please support Adafruit and open-source hardware by purchasing 
-products from Adafruit!
+### License
 
-Designed by Adafruit Industries.  
-Creative Commons Attribution, Share-Alike license, check license.txt for more information
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
 All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
+See license.txt for additional information.
